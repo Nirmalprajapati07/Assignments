@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Box{
+    margin-top: 13px;
+    margin-left: 1%;
+    width: 98%;
+    height: 703px;
+    border: solid black;
+    position: relative;
+}
+.main-2 img{
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    left: 50%;
+}
+.main-1{
+    background-color: #202020;
+    width: 50%;
+    height: 100%;
+    position: absolute;
+}
+.NavBar img{
+    position: absolute;
+    top: 44%;
+    left: 2%;
+}
+.head h1{
+    font-size: 27px;
+    letter-spacing: 4px;
+    color: #f4f5f9;
+    font-weight: 700;
+    font-family: sans-serif;
+    position: relative;
+    left: 60%;
+    margin-top: 17%;
+}
+.head h2{
+    width: 6px;
+    height: 36px;
+    background-color: #e74c3c;
+    position: relative;
+    left: 93%;
+    margin-top: -34px;
+}
+.text h1{
+    left: 75%;
+    padding-top: 5%;
+    width: 550px;
+    height: 74px;
+    font-size: 16px;
+    line-height: 29px;
+    color: #e74c3c;
+    font-weight: 600;
+    font-family: sans-serif;
+    position: relative;
+
+}
+.text p{
+    left: 14%;
+    width: 587px;
+    height: 96px;
+    font-size: 14px;
+    line-height: 19px;
+    color: #999999;
+    font-weight: 400;
+    font-family: sans-serif;
+    text-align: right;
+    position: relative;
+}
+.Icon{
+    position: absolute;
+    left: 713px;
+}
+.D-1 img{
+    position: absolute;
+    height: 62px;
+    left: -2px;
+    top: 34%;
+}
+.D-2 img{
+    position: absolute;
+    height: 62px;
+    left: -6px;
+    top: 62%;
+}
+.D-3 img{
+    position: relative;
+    height: 62px;
+    left: -5px;
+    margin-top: 850%;
+}

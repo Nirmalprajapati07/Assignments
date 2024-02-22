@@ -1,0 +1,596 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main-1{
+    border: solid black;
+    width: 98%;
+    height: 1490px;
+    margin: 1%;
+}
+.main-1 .logo h1{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: -0.06em;
+    text-align: left;
+    font-family: Josefin Sans;
+    position: relative;
+    left: 100px;
+    width: 1%;
+    top: 43px;
+}
+.nav{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    justify-content: space-evenly;
+    width: 53%;
+    left: 20%;
+    top: 18px;
+
+
+}
+.nav li{
+    list-style-type: none;
+}
+.nav select{
+    position: relative;
+    border: solid white;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 2px;
+    font-family: Inter;
+}
+.main-1 .btn{
+    position: relative;
+    display: flex;
+    justify-content: right;
+    right: 59px;
+}
+.main-1 .btn h1{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:rgba(53, 65, 75, 1);
+    font-family: Inter;
+    right: 30px;
+    position: relative;
+}
+.main-1 .btn button{
+    width: 169px;
+    border-radius: 4px;
+    position: relative;
+    top: -14px;
+    height: 48px;
+    background-color:rgba(236, 229, 255, 1);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: center;
+    font-family: Inter;
+}
+.main-1 .text-1{
+    position: relative;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    top: 88px;
+}
+.main-1 .text-1 h1{
+    width: 6%;
+    border-radius: 100px;
+    background-color: rgba(129, 196, 59, 1);
+    font-family: Inter;
+    font-size: 15px;
+    text-align: left;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 3px;
+    position: relative;
+}
+.main-1 .text-1 h2{
+    left: 3px;
+    position: relative;
+    top: 5px;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    font-family: Inter;
+    color: rgba(53, 65, 75, 1);
+}
+.main-1 .text-2{
+    position: relative;
+    top: 11%;
+    text-align: center;
+}
+.main-1 .text-2 h1{
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 72px;
+    letter-spacing: 0em;
+    text-align: center;
+    font-family: Inter;
+    color: rgba(53, 65, 75, 1);
+    font-family: sans-serif;
+}
+.main-1 .text-2 p{
+    position: relative;
+    top: 48px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: rgba(53, 65, 75, 1);
+    font-family: Inter;
+}
+.main-1 .text-3{
+    position: relative;
+    display: flex;
+    position: relative;
+    text-align: center;
+    justify-content: center;
+    top: 17%;
+}
+.main-1 .text-3 input{
+    position: relative;
+    width: 319px;
+    height: 52px;
+    border: 1px solid #c9c3c3;
+    font-size: 17px;
+    letter-spacing: 3px;
+}
+.main-1 .text-3 h1{
+    position: relative;
+    background-color:rgba(121, 76, 255, 1);
+    width: 164px;
+    height: 52px;
+}
+.main-1 .text-3 h1{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    font-family: Inter;
+}
+.main-image img{
+    left: 16%;
+    position: absolute;
+    top: 93%;
+}
+.text-4 p{
+    position: relative;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: center;
+    font-family: Inter;
+    top: 1032px;
+}
+.main-img-all{
+    position: relative;
+    display: flex;
+    justify-content: space-evenly;
+    top: 72%;
+    width: 62%;
+    left: 20%;
+}
+.main-2{
+    border: solid black;
+    width: 98%;
+    height: 742px;
+    margin: 1%;
+}
+.main-2 .box-1{
+    position: relative;
+    width: 50%;
+    height: 660px;
+}
+.main-2 .box-2{
+    position: relative;
+    left: 50%;
+    top: -660px;
+    width: 50%;
+    height: 660px;
+}
+.main-2 .box-1 img{
+    position: relative;
+    left: 32px;
+    top: 51px;
+    width: 94%;
+    height: 592px;
+}
+.main-2 .box-2 .M-2-B{
+    position: relative;
+}
+.main-2 .box-2 .M-2-B .B-B{
+    position: relative;
+    width: 100%;
+    height: 164px;
+}
+.main-2 .box-2 .M-2-B .B-B h1{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    font-family: Inter;
+    color: 
+    rgba(53, 65, 75, 1);
+    top: 25%;
+    left: 10%;
+    position: relative;
+}
+.main-2 .box-2 .M-2-B .B-B p{
+    position: relative;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 24px;
+    top: 37%;
+    left: 10%;
+    letter-spacing: 0em;
+    text-align: left;
+    font-family: Inter;
+    color: rgba(78, 90, 101, 1);
+}
+.main-2 .line{
+    position: relative;
+    width: 8px;
+    height: 121px;
+    background-color: rgba(121, 76, 255, 1);
+    top: -95%;
+    left: 46px;
+}
+.main-3{
+    border: solid black;
+    width: 98%;
+    height: 742px;
+    margin: 1%;
+}
+.main-3 .box-1 .M-3-B{
+    position: relative;
+    width: 34%;
+    height: 224px;
+}
+.main-3 .box-2 .M-3-B{
+    position: relative;
+    width: 34%;
+    height: 224px;
+}
+.main-3 .box-1{
+    position: relative;
+    display: flex;
+    margin: 7%;
+    width: 86%;
+}
+.main-3 .box-2{
+    position: relative;
+    display: flex;
+    margin: 7%;
+    width: 86%;
+}
+.main-3 .title H1{
+    position: relative;
+    top: 42px;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: center;
+    font-family: Inter;
+    color: rgba(53, 65, 75, 1);
+}
+.main-3 .box-1 .M-3-B h1{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    font-family: Inter;
+    color: rgba(53, 65, 75, 1);
+    position: relative;
+    top: 54px;
+    left: 10px;
+}
+.main-3 .box-1 .M-3-B p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    font-family: Inter;
+    color: rgba(78, 90, 101, 1);
+    position: relative;
+    top: 74px;
+    left: 10px;
+}
+.main-3 .box-2 .M-3-B h1{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    font-family: Inter;
+    color: rgba(53, 65, 75, 1);
+    position: relative;
+    top: 54px;
+    left: 10px;
+}
+.main-3 .box-2 .M-3-B p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    font-family: Inter;
+    color: rgba(78, 90, 101, 1);
+    position: relative;
+    top: 74px;
+    left: 10px;
+}
+.main-3 img{
+    position: relative;
+    top: 29px;
+    height: 31%;
+    left: 5px;
+    width: 17%;
+}
+.main-4{
+    border: solid black;
+    width: 98%;
+    height: 663px;
+    margin: 1%;
+}
+.main-4 .box-1{
+    position: relative;
+    width: 50%;
+    height: 660px;
+}
+.main-4 .box-2{
+    position: relative;
+    left: 50%;
+    top: -660px;
+    width: 50%;
+    height: 660px;
+}
+.main-4 .box-2 img{
+    position: relative;
+    width: 94%;
+    height: 497px;
+    margin: 25px;
+    top: 67px;
+}
+.main-4 .box-1 h1{
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+    font-family: Inter;
+    position: relative;
+}
+.main-4 .box-1 p{
+    position: relative;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    font-family: Inter;
+}
+.main-4 .box-1 button{
+    position: relative;
+    height: 51px;
+    width: 18%;
+    left: 45px;
+    top: 45%;
+    background-color: rgba(121, 110, 255, 1);
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 700;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: white;
+}
+.main-4 .box-1 h1{
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 55px;
+    letter-spacing: 0em;
+    text-align: left;
+    font-family: sans-serif;
+    position: relative;
+    left: 45px;
+    top: 177px;
+}
+.main-4 .box-1 p{
+    top: 237px;
+    left: 45px;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    position: relative;
+}
+.main-5{
+    border: solid black;
+    width: 98%;
+    height: 663px;
+    margin: 1%;
+}
+.main-5 h1{
+    position: relative;
+    font-family: sans-serif;
+    font-size: 53px;
+    font-weight: 600;
+    line-height: 52px;
+    top: 100px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: rgba(53, 65, 75, 1);
+}
+.main-5 p{
+    top: 200px;
+    position: relative;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: rgba(78, 90, 101, 1);
+    font-family: sans-serif;
+}
+.main-5 .box-5{
+    width: 28%;
+    height: 125px;
+}
+.main-5 .box{
+    position: relative;
+    display: flex;
+    justify-content: space-evenly;
+    top: 264px;
+}
+.main-5 .box .box-5 h1{
+    position: relative;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    font-family: Inter;
+    color: rgba(78, 90, 101, 1);
+    top: 17px;
+    left: 5px;
+}
+.main-5 .box .box-5 p{
+    position: relative;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(78, 90, 101, 1);
+    font-size: 16px;
+    top: 22px;
+    left: 6px;
+}
+.main-6{
+    border: solid black;
+    width: 98%;
+    height: 257px;
+    margin: 1%;
+}
+.main-6 .box{
+    margin: 20px;
+    position: relative;
+    width: 1439px;
+    border-radius: 19px;
+    height: 224px;
+    background-color: rgba(121, 110, 255, 1);
+}
+.main-6 .box h1{
+    position: relative;
+    font-size: 46px;
+    font-weight: 600;
+    line-height: 67px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+    top: 48px;
+    left: 37px;
+    font-family: sans-serif;
+}
+.M-5-Image{
+    position: relative;
+    left: 69%;
+    top: -5px;
+}
+.footer{
+    width: 100%;
+    height: 379px;
+    background-color: rgba(29, 40, 48, 1);
+}
+.header{
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    width: 44%;
+    position: relative;
+    top: 20%;
+
+
+}
+.header h1{
+    position: relative;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 52px;
+    letter-spacing: 0em;
+    text-align: left;
+    font-family: sans-serif;
+
+}
+.header p{
+    position: relative;
+    font-size: 13px;
+    font-family: sans-serif;
+    font-weight: 400;
+    line-height: 42px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.header h3{
+    position: relative;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    left: 700px;
+}
+.footer-Img{
+    position: relative;
+    left: 77%;
+    top: -22%;
+    display: grid;
+}
+.f-2 img{
+    position: relative;
+    top: 10px;
+}
+.down h1{
+    position: relative;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: 4px;
+    text-align: left;
+    font-family: sans-serif;
+    color: rgba(217, 219, 225, 1);
+    top: 20px;
+    left: 53px;
+}
+.font{
+    position: relative;
+    font-size: 22px;
+    left: 79%;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    width: 14%;
+}

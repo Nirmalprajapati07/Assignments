@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.text h1{
+    position: relative;
+    text-align: center;
+    font-size: 36px;
+    letter-spacing: 4px;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: sans-serif;
+    margin-top: -41%;
+}
+.text p{
+    position: absolute;
+    text-align: center;
+    width: 1173px;
+    height: 39px;
+    font-size: 14px;
+    line-height: 29px;
+    color: #f4f5f9;
+    font-weight: 400;
+    font-family: sans-serif;
+    text-align: center;
+    left: 12%;
+    margin-top: 3%;
+}
+.C-1 img{
+    position: absolute;
+    left: 17%;
+    top: 60%;
+}
+.C-2 img{
+    position: absolute;
+    left: 68%;
+    top: 55%;
+
+}
+.C-3 img{
+    position: absolute;
+    left: 49%;
+    top: 52%;
+}
+.C-4 img{
+    position: absolute;
+    left: 32%;
+    top: 50%;
+    width: 6%;
+}
+.C-5 img{
+    position: absolute;
+    left: 85%;
+    top: 40%;
+}
+.text-2 h1{
+    position: relative;
+    font-size: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #e74c3c;
+    font-weight: 600;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 23%;
+    margin-left: -28%;
+}
